@@ -2,6 +2,10 @@
 **Innovate4FinLit Game Challenge — Team Sudoku Gang**
 
 http://sakhi-smart-money.netlify.app/
+Click on this link
+Opens on a web browser
+Click the three lines and click on add to home screen
+The app is installed and ready for offline use
 
 A story-based financial literacy game where women learn money management by living it — budgeting smartly, fighting scams, and separating home and business money.
 
