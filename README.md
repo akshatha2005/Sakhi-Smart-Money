@@ -31,5 +31,4 @@ flutter run
 -  Progress meters + XP level system
 -  4 Achievement badges
 -  Offline capable
--  
 
