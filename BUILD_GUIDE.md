@@ -1,4 +1,4 @@
-# 🪔 Sakhi Smart Money — Flutter Build Guide
+# Sakhi Smart Money — Flutter Build Guide
 
 ## Prerequisites
 Install these on your machine:
@@ -131,8 +131,6 @@ Run: `flutter pub run flutter_native_splash:create`
 ---
 
 ## Features Implemented
-| Feature | Status |
-|--------|--------|
 | Monthly Game Loop (12 months) | ✅ |
 | Step 1: Income Display | ✅ |
 | Step 2: Money Jar Puzzle (4 jars) | ✅ |
@@ -141,10 +139,7 @@ Run: `flutter pub run flutter_native_splash:create`
 | Progress Meters (Health/Stress/Confidence) | ✅ |
 | XP + Level System (5 levels) | ✅ |
 | Achievement Badges (4 badges) | ✅ |
-| Voice Guidance Bubbles (Hindi) | ✅ |
 | Score Tracking | ✅ |
-| Offline Mode (no internet needed) | ✅ |
-| Dark Purple Theme | ✅ |
 | Monthly Report | ✅ |
 | Result Dialogs with Effects | ✅ |
 
