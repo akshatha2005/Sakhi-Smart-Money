@@ -26,4 +26,6 @@ flutter run
 -  Life Events (medical, school, festival, business)
 -  Progress meters + XP level system
 -  4 Achievement badges
+-  Offline capable
+-  
 
